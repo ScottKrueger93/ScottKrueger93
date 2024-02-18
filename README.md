@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Scott Krüger
-- 👀 I’m interested in Coding, Soccer, Videogames, Musik and Chess
+- 👀 I’m interested in Coding, Soccer, Videogames, Musik, Reading and Chess
 - 🌱 I’m currently learning Coding at the Syntax Institut
 - 💞️ I’m looking to collaborate on ...
 - ⚡ Fun fact: I'm not irish
