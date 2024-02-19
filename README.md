@@ -1,4 +1,4 @@
-👋 Herzlich willkommen auf meinem GitHub-Profil! Ich bin [Dein Name], 31 Jahre alt und lebe in der aufregenden Stadt Berlin. Aktuell befinde ich mich in einer spannenden Weiterbildung zum App-Entwickler am Syntax-Institut, wo ich meine Leidenschaft für innovative Technologien weiter vertiefe.
+👋 Herzlich willkommen auf meinem GitHub-Profil! Ich bin Scott, 31 Jahre alt und lebe in der aufregenden Stadt Berlin. Aktuell befinde ich mich in einer spannenden Weiterbildung zum App-Entwickler am Syntax-Institut, wo ich meine Leidenschaft für innovative Technologien weiter vertiefe.
 
 🚀 In meiner Freizeit tauche ich gerne in Bücher ab, erkunde virtuelle Welten in Videospielen, analysiere Schachzüge, lausche verschiedenen Musikgenres, tauche in fesselnde Filme und Serien ein und genieße den sozialen Aspekt beim Fußballspielen. Doch meine größte Faszination liegt im Coden, wo ich kreative Lösungen für technische Herausforderungen entwickle.
 
